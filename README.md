@@ -10,9 +10,6 @@ The course is structured into several key modules:
 - **Bank System Core:** Building the essential features for managing clients and user accounts.
 - **User Interface (UI):** Creating menu-driven screens for client management, transactions, and user administration.
 - **Advanced Extensions:** Adding functionalities such as login permissions, transaction logs, data encryption, and system security measures.
-- **Currency Exchange Module:** An extension project focusing on currency exchange operations.
-- **Template Functions & Classes:** Applying generic programming techniques to improve code modularity and reusability.
-- **Homework & Code Organization:** Final steps to organize classes and header files for a clean, maintainable codebase.
 
 ## Project Features
 
