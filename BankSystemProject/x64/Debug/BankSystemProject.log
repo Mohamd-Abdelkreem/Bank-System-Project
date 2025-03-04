@@ -1,0 +1,61 @@
+﻿  BankSystemProject.cpp
+C:\Users\moham\OneDrive\Desktop\BankSystemProject\BankSystemProject\clsString.h(37,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystemProject.cpp')
+  
+C:\Users\moham\OneDrive\Desktop\BankSystemProject\BankSystemProject\clsString.h(42,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystemProject.cpp')
+  
+C:\Users\moham\OneDrive\Desktop\BankSystemProject\BankSystemProject\clsString.h(54,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystemProject.cpp')
+  
+C:\Users\moham\OneDrive\Desktop\BankSystemProject\BankSystemProject\clsString.h(191,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystemProject.cpp')
+  
+C:\Users\moham\OneDrive\Desktop\BankSystemProject\BankSystemProject\clsString.h(322,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystemProject.cpp')
+  
+C:\Users\moham\OneDrive\Desktop\BankSystemProject\BankSystemProject\clsString.h(370,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystemProject.cpp')
+  
+C:\Users\moham\OneDrive\Desktop\BankSystemProject\BankSystemProject\clsUser.h(187,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'BankSystemProject.cpp')
+      C:\Users\moham\OneDrive\Desktop\BankSystemProject\BankSystemProject\clsUser.h(23,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\moham\OneDrive\Desktop\BankSystemProject\BankSystemProject\clsInputValidate.h(113,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystemProject.cpp')
+  
+C:\Users\moham\OneDrive\Desktop\BankSystemProject\BankSystemProject\clsInputValidate.h(117,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystemProject.cpp')
+  
+C:\Users\moham\OneDrive\Desktop\BankSystemProject\BankSystemProject\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystemProject.cpp')
+  
+C:\Users\moham\OneDrive\Desktop\BankSystemProject\BankSystemProject\clsBankClient.h(357,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystemProject.cpp')
+  
+C:\Users\moham\OneDrive\Desktop\BankSystemProject\BankSystemProject\clsBankClient.h(370,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystemProject.cpp')
+  
+C:\Users\moham\OneDrive\Desktop\BankSystemProject\BankSystemProject\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystemProject.cpp')
+  
+C:\Users\moham\OneDrive\Desktop\BankSystemProject\BankSystemProject\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystemProject.cpp')
+  
+C:\Users\moham\OneDrive\Desktop\BankSystemProject\BankSystemProject\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'BankSystemProject.cpp')
+  
+C:\Users\moham\OneDrive\Desktop\BankSystemProject\BankSystemProject\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'BankSystemProject.cpp')
+  
+C:\Users\moham\OneDrive\Desktop\BankSystemProject\BankSystemProject\clsTransferScreen.h(42,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystemProject.cpp')
+  
+C:\Users\moham\OneDrive\Desktop\BankSystemProject\BankSystemProject\clsTransferScreen.h(47,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystemProject.cpp')
+  
+C:\Users\moham\OneDrive\Desktop\BankSystemProject\BankSystemProject\clsBankClient.h(312,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\moham\OneDrive\Desktop\BankSystemProject\BankSystemProject\clsBankClient.h(374,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+C:\Users\moham\OneDrive\Desktop\BankSystemProject\BankSystemProject\clsUser.h(345,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  BankSystemProject.vcxproj -> C:\Users\moham\OneDrive\Desktop\BankSystemProject\x64\Debug\BankSystemProject.exe
